@@ -1,5 +1,6 @@
-# Swarovski Waterschool CSS
+# Swarovski Waterschool Bootstrap Practice
 
+![Waterschool Photo](/images/waterschool.jpg)
 ## Objectives
 
 1. Practice using the Bootstrap Framework to make websites beuatiful
